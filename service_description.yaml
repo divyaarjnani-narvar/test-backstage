@@ -4,7 +4,7 @@ metadata:
   name: test-backstage
   description: Test Backstage catalog
   annotations:
-    circleci.com/project-slug: /github/narvar/hub-backend
+    circleci.com/project-slug: github/narvar/hub-backend
   tags:
     - python
     - node
