@@ -5,6 +5,7 @@ metadata:
   description: Test Backstage catalog
   annotations:
     circleci.com/project-slug: github/narvar/hub-backend
+    jira/project-key: TRK
   tags:
     - python
     - node
